@@ -29,6 +29,6 @@ int main(){
     getline(cin,signature);
     cout << name << ": " << signature << endl;
     cout << "Fahsai: 555+ see you" << day << ". Bye Bye \\(^ ^)/";
-
+    return 0;
 }
 
